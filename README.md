@@ -1,24 +1,18 @@
 <div align="center">
 
-<kbd>
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/c0d3rb0y/Milknami/main/public/img/cookie.png">
-</kbd>
+<h1>Maxor proxy</h1>
 
-<h1>Milknami</h1>
-
-<h3>A fork of Tsunami for the purpouses of screwing over Securly and PaloAlto at my school.</h3>
+<h3>A reskinned and updated version of coderkid's milknami, which is a version of Tsunami</h3>
 
 <p>EZ deploy with heroku, just click button and follow the steps in Heroku! Glitch and Repl.it are untested as of now but feel free to be the first person!</p>
 
-<p>Want to improve Milknami? <a href="https://github.com/c0d3rb0y/Milknami/compare">Create a pull request</a></p>
 </div>
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/c0d3rb0y/Milknami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
-<a href="https://repl.it/github/c0d3rb0y/Milknami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/c0d3rb0y/Milknami"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/textbookRP/maxor-proxy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
+<a href="https://repl.it/github/textbookRP/maxor-proxy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
+<a href="https://glitch.com/edit/#!/import/github/textbookRP/maxor-proxy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 </p>
-GUYS WHY IS THERE SO MANY FORKS THIS PROJECT DIED MONTHS AGOOOOOO LMAO
 ### Credits
 
 [Coderkid](https://github.com/c0d3rb0y) - Milknami Main Dev
@@ -42,6 +36,8 @@ GUYS WHY IS THERE SO MANY FORKS THIS PROJECT DIED MONTHS AGOOOOOO LMAO
 [Shirt](https://github.com/shirt-dev) - Proxy Developer
 
 [Karlee Rae](https://github.com/KarleeRae) - MinecraftJS
+
+[TextbookRP](https://github.com/textbookRP) - Independent dev trying to keep this updated
 
 ### Contributing
 
